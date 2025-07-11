@@ -15,6 +15,9 @@
   margin: 0px;
   padding: 0px;
 }
+body{
+  background-color: #F5F8FF;
+}
 
 /* shared styles  */
 .primary-color{
@@ -61,4 +64,41 @@ header{
   font-size: 65px;
   font-weight: 700;
   margin-bottom: 37px;
+} 
+/* main section style  */
+.action-containr{ 
+  display:flex; 
+  justify-content: space-between; 
+  padding: 159px 141px;
+  align-items: center;
 }
+/*style of action section */ 
+.action-tittle{ 
+  font-size: 42px;
+  font-weight: 700; 
+  margin-bottom: 23px;
+} 
+.action-description{ 
+  font-size:  24px;
+  font-weight: 400px; 
+  margin-bottom: 23px;
+} 
+
+/* ACTION IMG STYLES*/ 
+.action-img img{ 
+  border-radius:48px;
+}  
+
+
+/* productive user section*/
+
+.productive-title{ 
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center; 
+ 
+}
+
+
+ 
+
