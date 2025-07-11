@@ -94,11 +94,15 @@ header{
 .productive-user-section{ 
   margin: 116px 150px;
   text-align: center;
+  background-color: rgba(78, 71, 255, 0.10);
+  border-radius: 24px;
+  padding: 50px 80px;
 
 } 
 .productive-title{ 
   font-size: 38px;
   font-weight: 700;
+  margin-bottom: 40px;
   
  
 }
@@ -116,4 +120,54 @@ header{
 .product-user{ 
   font-size: 88px;
   font-weight: 700;
+}
+/* let's get in touch section*/ 
+.get-in-touch{ 
+display:flex;
+justify-content: space-between;
+text-align: center;
+} 
+.touch-title{ 
+  font-size: 97px;
+  font-weight: 700;
+} 
+.form-input{ 
+  background-color:#FFF; 
+  border-radius: 10px;
+  border: 20px solid #D6DDED;
+} 
+
+
+/* footer section*/
+.wabsite-title{ 
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900; 
+} 
+.wabsite-text{ 
+   text-align: center; 
+   margin-bottom: 20px;
+
+} 
+.link-text{ 
+  display: flex; 
+  gap:20px; 
+  justify-content: center; 
+ 
+}
+ul li{ 
+  list-style-type: none; 
+
+}
+
+footer{
+  background-color: #FFF;
+  border: 1px solid rgba(0, 0, 0, 0.10);
+} 
+ul li a{ 
+  text-decoration: none;
+  color: #8987A1;
+} 
+footer{ 
+  margin: 104px 455px ;
 }
