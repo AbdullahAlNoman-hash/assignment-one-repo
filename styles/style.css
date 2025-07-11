@@ -91,14 +91,29 @@ header{
 
 
 /* productive user section*/
+.productive-user-section{ 
+  margin: 116px 150px;
+  text-align: center;
 
+} 
 .productive-title{ 
   font-size: 38px;
   font-weight: 700;
-  text-align: center; 
+  
  
 }
 
+.productive-container{
+   display:flex;
+   justify-content: center;
 
- 
+   gap:158px;  
 
+}
+
+ /*productive container styles*/
+
+.product-user{ 
+  font-size: 88px;
+  font-weight: 700;
+}
