@@ -43,7 +43,7 @@ body{
 .btn-primary:hover{
   background-color: #222E50;
   font-size: 18px;
-  
+
 }
 /* header section styles  */
 header{
@@ -85,7 +85,7 @@ header{
 } 
 .action-description{ 
   font-size:  24px;
-  font-weight: 400px; 
+  font-weight: 400; 
   margin-bottom: 23px;
 } 
 
