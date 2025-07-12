@@ -48,7 +48,7 @@ body{
 /* header section styles  */
 header{
   padding: 0px 150px 150px;
-  background-image: url('/images/Hero-bg.png');
+  background-image: url('../images/Hero-bg.png');
 }
 /* nav bar styles  */
 .nav-bar{
