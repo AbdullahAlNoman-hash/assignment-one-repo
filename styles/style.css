@@ -170,4 +170,45 @@ ul li a{
 } 
 footer{ 
   margin: 104px 455px ;
+} 
+/* our user say*/
+.feedback-container{
+  margin: 100px 150px;
+}
+.user-heading{ 
+  font-size: 42px;
+  font-weight: 700; 
+  text-align: center;
+  margin-bottom: 50px;
+  
+} 
+.users-cards-container{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+.card{
+  background-color: rgba(255, 255, 255, 0.50);
+  border: 1px solid #F2EDED;
+  border-radius: 14px;
+  padding: 24px;
+}
+.reviewer{
+  display: flex;
+  gap: 6px;
+}
+.icon-star-container{
+  margin-bottom: 24px;
+}
+.users-deatails{
+  margin-bottom: 24px;
+}
+.user-title{
+  margin-bottom: 8px;
+} 
+.user-description{
+  color:#181818 ;
+} 
+ .card-date{ 
+  color:#747474;
 }
